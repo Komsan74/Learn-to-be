@@ -34,10 +34,10 @@ Math.trunc(number * จำนวนเต็มหลักทศนิยม)
 
 ```javascript
 const SetDecimalPlaces = (number, decimalPlaces) => {
-  const convertDec = Math.pow(10, decimalPlaces);
-  const convertNum = Math.trunc(number * convertDec);
+  let convertDec = Math.pow(10, decimalPlaces);
+  let convertNum = Math.trunc(number * convertDec);
 
-  const result = convertNum / convertDec;
+  let result = convertNum / convertDec;
   return result;
 };
 ```
@@ -50,7 +50,7 @@ const SetDecimalPlaces = (n, d) => (Math.trunc(n * Math.pow(10, d))/Math.pow(10,
 
 ทั้งสองแบบให้ผลลัพท์เหมือนกัน&#x20;
 
-
+<figure><img src="../../.gitbook/assets/SetDecimalPlaces.PNG" alt=""><figcaption></figcaption></figure>
 
 ## นำไปใช้งาน
 
