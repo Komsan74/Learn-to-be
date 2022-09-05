@@ -42,7 +42,7 @@ const SetDecimalPlaces = (number, decimalPlaces) => {
 };
 ```
 
-หรือจะเขียนให้สั้นขึ้นอีก (แต่อาจจะดูลายตา)
+หรือจะเขียนให้สั้นขึ้นอีก (แต่อาจจะดูยุ่งเหยิงอยู่บ้าง หากจำเป็นต้องกลับมาไล่แก้ไขภายหลัง)
 
 ```javascript
 const SetDecimalPlaces = (n, d) => (Math.trunc(n * Math.pow(10, d))/Math.pow(10, d))
