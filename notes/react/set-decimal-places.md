@@ -1,4 +1,4 @@
-# ตัดหลักทศนิยมโดยไม่ปัดเศษ
+# การตัดหลักทศนิยมโดยไม่ปัดเศษ
 
 การตัดหลักทศนิยมใน React (Javascript) นั้น ย่อมเป็นที่รู้กันว่ามีมากมายหลายวิธี อย่างเป็นที่นิยมก็คงหลีกไม่พ้น `number.toFixed() เพราะง่ายและสะดวกดี`
 
@@ -48,8 +48,17 @@ const SetDecimalPlaces = (number, decimalPlaces) => {
 const SetDecimalPlaces = (n, d) => (Math.trunc(n * Math.pow(10, d))/Math.pow(10, d))
 ```
 
-ทั้งสองแบบให้ผลลัพท์เหมือนกัน ส่วนวิธีนำไปใช้ก็เช่น
+ทั้งสองแบบให้ผลลัพท์เหมือนกัน&#x20;
+
+
+
+## นำไปใช้งาน
 
 ```javascript
 SetDecimalPlaces(12.3456789, 3); // 12.345
 ```
+
+## อ้างอิง
+
+* [Demo in codesanbox.io](https://codesandbox.io/s/setdecimalplaces-2qdwxp)
+
