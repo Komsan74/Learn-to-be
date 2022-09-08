@@ -13,6 +13,6 @@ description: >-
 
 | หัวข้อ                                                                      | เนื้อหา                                                       |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| [Google Appscript](https://kms74.gitbook.io/learn-to-be/google-apps-script) | เกร็ดความรู้เกี่ยวกับ Google Appscript และ Google Spreadsheet |
-| [React](https://kms74.gitbook.io/learn-to-be/readme-1)                      | เกร็ดความรู้เกี่ยวกับ React และ Javascript                    |
-| [Go](https://kms74.gitbook.io/learn-to-be/go-lang)                          | เกร็ดความรู้เกี่ยวกับภาษา Go                                  |
+| [Google Appscript](README.md) | เกร็ดความรู้เกี่ยวกับ Google Appscript และ Google Spreadsheet |
+| [React](README(1).md)                      | เกร็ดความรู้เกี่ยวกับ React และ Javascript                    |
+| [Go](go-lang/README.md)                          | เกร็ดความรู้เกี่ยวกับภาษา Go                                  |
