@@ -14,5 +14,5 @@ description: >-
 | หัวข้อ                                                                      | เนื้อหา                                                       |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | [Google Appscript](README.md) | เกร็ดความรู้เกี่ยวกับ Google Appscript และ Google Spreadsheet |
-| [React](README(1).md)                      | เกร็ดความรู้เกี่ยวกับ React และ Javascript                    |
+| [React](README (1).md)                      | เกร็ดความรู้เกี่ยวกับ React และ Javascript                    |
 | [Go](go-lang/README.md)                          | เกร็ดความรู้เกี่ยวกับภาษา Go                                  |
