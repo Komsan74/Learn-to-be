@@ -26,7 +26,7 @@ description: >-
 * CAddress ที่อยู่ลูกค้า (customer\_address)
 * CPhone หมายเลขโทรศัพท์ลูกค้า (customer\_phone)
 
-![GAS Database Demo Sheets](../.gitbook/assets/gas-demo-sheet.PNG)
+<kbd>![GAS Database Demo Sheets](../.gitbook/assets/gas-demo-sheet.PNG)</kbd>
 
 ## เปิดใช้งานโปรเจค Google Apps Script
 
