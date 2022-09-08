@@ -26,17 +26,17 @@ description: >-
 * CAddress ที่อยู่ลูกค้า (customer\_address)
 * CPhone หมายเลขโทรศัพท์ลูกค้า (customer\_phone)
 
-<kbd>![GAS Database Demo Sheets](../.gitbook/assets/gas-demo-sheet.PNG)</kbd>
+![GAS Database Demo Sheets](../.gitbook/assets/gas-demo-sheet.PNG)
 
 ## เปิดใช้งานโปรเจค Google Apps Script
 
 เมื่อเตรียมชีตข้อมูลเรียบร้อยแล้ว ก็ได้เวลาสำหรับการเขียนสคริปต์ ทำการเปิดเข้าใช้งาน Google Apps Script Project โดยไปที่เมนู `ส่วนขยาย` แล้วเลือก `Apps Script`
 
-![เมนู > ส่วนขยาย > Apps Script](../.gitbook/assets/gas-demo-ext-appscript.png)
+<figure><img src="../.gitbook/assets/gas-demo-ext-appscript.png" alt="เมนู > ส่วนขยาย > Apps Script"><figcaption></figcaption></figure>
 
 ระบบจะพาไปที่หน้า Apps Script Project ผู้บันทึกได้ทำการแก้ไขชื่อโปรเจคเป็น `GAS Database Demo` เพื่อให้สอดคล้องกับชีตข้อมูล เผื่ออนาคตสร้างชีตฐานข้อมูลอื่น ๆ มาใช้งานอีกจะได้ไม่สับสน :smile:
 
-<figure><img src="../.gitbook/assets/gas-demo-change-project-name.PNG" alt="GAS Database Demo" style="border: 3px solid grey"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gas-demo-change-project-name.PNG" alt="GAS Database Demo"><figcaption></figcaption></figure>
 
 ## เขียนโค้ด GAS, html
 
