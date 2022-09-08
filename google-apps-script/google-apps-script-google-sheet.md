@@ -36,7 +36,7 @@ description: >-
 
 ระบบจะพาไปที่หน้า Apps Script Project ผู้บันทึกได้ทำการแก้ไขชื่อโปรเจคเป็น `GAS Database Demo` เพื่อให้สอดคล้องกับชีตข้อมูล เผื่ออนาคตสร้างชีตฐานข้อมูลอื่น ๆ มาใช้งานอีกจะได้ไม่สับสน :smile:
 
-<figure><img src="../.gitbook/assets/gas-demo-change-project-name.PNG" alt="GAS Database Demo"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gas-demo-change-project-name.PNG" alt="GAS Database Demo" style="border: 3px solid grey"><figcaption></figcaption></figure>
 
 ## เขียนโค้ด GAS, html
 
