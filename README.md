@@ -11,8 +11,8 @@ description: >-
 
 สำหรับเรื่องราวต่าง ๆ ที่จะนำมาบันทึกเล่าใน [GitBook](https://www.gitbook.com/) นี้ ผู้บันทึกจะค่อย ๆ มาอัพเดทหัวข้อให้ทราบในภายหลัง สำหรับช่วงเริ่มต้นนี้ มีหัวข้อเรื่องได้อ่านเพียงเท่านี้ก่อน&#x20;
 
-| หัวข้อ           | เนื้อหา                                                       |
-| ---------------- | ------------------------------------------------------------- |
-| Google Appscript | เกร็ดความรู้เกี่ยวกับ Google Appscript และ Google Spreadsheet |
-| React            | เกร็ดความรู้เกี่ยวกับ React และ Javascript                    |
-| Go               | เกร็ดความรู้เกี่ยวกับภาษา Go                                  |
+| หัวข้อ                                                                      | เนื้อหา                                                       |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [Google Appscript](https://kms74.gitbook.io/learn-to-be/google-apps-script) | เกร็ดความรู้เกี่ยวกับ Google Appscript และ Google Spreadsheet |
+| [React](https://kms74.gitbook.io/learn-to-be/readme-1)                      | เกร็ดความรู้เกี่ยวกับ React และ Javascript                    |
+| [Go](https://kms74.gitbook.io/learn-to-be/go-lang)                          | เกร็ดความรู้เกี่ยวกับภาษา Go                                  |
