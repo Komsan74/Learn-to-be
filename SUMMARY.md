@@ -3,6 +3,7 @@
 * [Welcome](README.md)
 * [Google Apps Script](google-apps-script/README.md)
   * [การพัฒนาเว็บแอปด้วย Google Apps Script ร่วมกับ Google Sheet](google-apps-script/google-apps-script-google-sheet.md)
+  * [สร้างฟอร์มบันทึกข้อมูลจากเว็บแอปลงใน Google Sheet ด้วย Google Apps Script](google-apps-script/form-insert-data-to-google-sheet.md)
 * [React](<README (1).md>)
   * [การตัดหลักทศนิยมโดยไม่ปัดเศษ](notes/react/set-decimal-places.md)
   * [Table with react-bootstrap](notes/react/table-with-react-bootstrap.md)
