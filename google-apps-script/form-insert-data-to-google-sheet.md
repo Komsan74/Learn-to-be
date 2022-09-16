@@ -319,7 +319,7 @@ function include(filename) {
 
 ### แก้ไข javascript.html
 
-ในส่วน \<!-- Custom Javascript --> เพิ่มสคริปต์นี้ลงไป
+ในส่วน \<!-- Custom Javascript -- > เพิ่มสคริปต์นี้ลงไป
 
 ```javascript
 <!-- Custom Javascript -->
@@ -346,18 +346,26 @@ function include(filename) {
 </script>
 ```
 
-ใน form.html เรามีการกำหนด `onsubmit="handleFormSubmit(this)` เอาไว้ หมายถึงหากเรากดปุ่ม submit (บันทึก) ที่หน้าเว็บแอป จะเป็นการบอกให้ฟอร์มรับเอาค่าในทุก ๆ element ที่มี เก็บเป็น data แล้วส่งให้ชุดคำสั่ง handleFormSubmit(data) ดำเนินการ ข้อมูลที่ส่งออกไปก็จะประมาณว่า _`data.elementid=data.element_value`_&#x20;
+ใน form.html ได้มีการกำหนด `onsubmit="handleFormSubmit(this)` เอาไว้&#x20;
 
-* handleFormSubmit(data) จะทำการติดต่อกับเซิร์ฟเวอร์เพื่อเรียกใช้ฟังชั่น createData(data) และนำผลตอบรับจาก เซิร์ฟเวอร์ ไปดำเนินการต่อที่ฟังก์ชั่น goAlert()
+หมายถึงหากเรากดปุ่ม submit (บันทึก) ที่หน้าเว็บแอป จะเป็นการบอกให้ฟอร์มรับเอาค่าในทุก ๆ element ที่มี&#x20;
+
+เก็บลง data แล้วส่งให้ชุดคำสั่ง handleFormSubmit(data) รับไปดำเนินการ ข้อมูลที่ส่งออกไปก็จะประมาณว่า {\[_`element_id=element_value, ...= ...,]}`_&#x20;
+
+
+
+* ฟังก์ชั่น handleFormSubmit(data) จะทำการติดต่อกับเซิร์ฟเวอร์ ผ่านคำสั่ง&#x20;
 
 ```javascript
 google.script.run.withSuccessHandler(goAlert).createData(data);
 ```
 
-* goAlert(result) จะเป็นการรับค่าที่รีเทิร์นกลับมาจากฟังก์ชั่น createData() ของฝั่งเซิร์ฟเวอร์ แล้วนำข้อความที่ได้มาแสดงกล่องข้อความแจ้งเตือนผลดำเนินการ
+เพื่อเรียกใช้ฟังชั่น createData(data) และนำผลตอบรับจากเซิร์ฟเวอร์ ไปดำเนินการต่อที่ฟังก์ชั่น goAlert()
+
+* ฟังก์ชั่น goAlert(result) จะรับเอาค่าที่รีเทิร์นกลับมาจากฟังก์ชั่น createData() ของฝั่งเซิร์ฟเวอร์ แล้วนำผลดำเนินการมาแสดงผ่านกล่องข้อความแจ้งเตือน
 
 <figure><img src="../.gitbook/assets/form-create-sheet-test-alert.PNG" alt=""><figcaption></figcaption></figure>
 
-มาถึงขั้นนี้ ถ้าไม่ได้ทำขั้นตอนไหนผิด ก็น่าจะสามารถใช้ฟอร์มที่สร้างในบทบันทึกนี้ บันทึกข้อมูลลงในกูลเกิ้ลชีตได้แล้ว
+มาถึงขั้นนี้ ถ้าหากผู้ศึกษาไม่ได้ทำขั้นตอนไหนผิด ก็น่าจะสามารถนำเว็บแอปฟอร์ม ที่สร้างในบทบันทึกนี้ ไปบันทึกข้อมูลลงในกูลเกิ้ลชีตได้แล้ว
 
 ### แล้วถ้าต้องการนำข้อมูลในกูลเกิ้ลชีตออกมาแสดงหน้าเว็บล่ะ ?
