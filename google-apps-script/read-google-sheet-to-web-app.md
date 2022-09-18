@@ -357,6 +357,6 @@ for (let i = 1; i < json.sheets.length; i++) {
 
 หากพบข้อผิดพลาดหรือต้องการให้คำแนะนำเพิ่มเติม ผู้บันทึกยินดีน้อมรับเพื่อนำมาปรับปรุงแก้ไขบทบันทึกให้ดียิ่งขึ้น
 
-#### กรุณาฝากความคิดเห็นได้ที่ :point\_right: [gist page](https://gist.github.com/Komsan74/8d04fa09c360c9b8386d3e47d4b6960e) :pray:
+#### แสดงความคิดเห็นได้ที่ :point\_right: [gist page](https://gist.github.com/Komsan74/8d04fa09c360c9b8386d3e47d4b6960e) :pray:
 
 ## แล้วถ้ามีการบันทึกข้อมูลผิดล่ะ? :man\_shrugging:
