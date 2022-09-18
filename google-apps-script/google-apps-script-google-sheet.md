@@ -118,4 +118,6 @@ function doGet(request) {
 
 <figure><img src="../.gitbook/assets/gas-demo-homepage.png" alt="Hello, Google Apps Script"><figcaption></figcaption></figure>
 
+#### แสดงความคิดเห็นได้ที่ :point\_right: [gist page](https://gist.github.com/Komsan74/8c31b037c0b3d497ec1e8a8df059cef5) :pray:
+
 ### แล้วจะใช้ประโยชน์อะไรจากเว็บแอป?&#x20;
