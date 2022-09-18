@@ -192,7 +192,7 @@ function getTableRow(index) {
 * กำหนดค่า `onsubmit` ของฟอร์มใหม่ เปลี่ยนจาก `handleFormSubmit(this)` เป็น `saveEdit(this)` `forms.setAttribute("onsubmit", "saveEdit(this)")`
 * แสดง Element ที่ซ่อนไว้ในฟอร์ม `document.getElementById('divId').style.display = "block";`
 * นำค่าที่เก็บไว้ในอาร์เรย์มาใส่ในฟอร์ม `forms.elements[element_id].value = values[array_index];`
-* เปลี่ยนสีที่ปุ่ม `บันทึก` เป็นสีส้มเพื่อให้ผู้ใช้ทราบว่าขณะนี้กำลังอยู่ในโหมดแก้ไขข้อมูล
+* เปลี่ยนสีที่ปุ่ม `บันทึก` เป็นสีเหลืองเพื่อให้ผู้ใช้ทราบว่าขณะนี้กำลังอยู่ในโหมดแก้ไขข้อมูล
 
 ### เพิ่มฟังก์ชั่น `saveEdit(data)` เพื่อส่งคำสั่งแก้ไขข้อมูลไปให้เซิร์ฟเวอร์
 
@@ -219,10 +219,24 @@ function saveEdit(data) {
 เสร็จแล้วลองทดสอบแก้ไขข้อมูลดู
 
 * กด แก้ไข ในตัวอย่าง เลือกแถวข้อมูล "หจก.ข้าวก่ำเอ็นเตอร์ไพรส์"&#x20;
-* รายการที่อยู่ในแถวข้อมูล จะถูกส่งไปที่ฟอร์ม&#x20;
+
+<figure><img src="../.gitbook/assets/update-sheets-1.png" alt=""><figcaption></figcaption></figure>
+
+* รายการที่อยู่ในแถวข้อมูล จะถูกส่งไปที่ฟอร์ม ปุ่มบันทึกจะเปลี่ยนเป็นสีเหลือง
+
+<figure><img src="../.gitbook/assets/update-sheets-2.png" alt=""><figcaption></figcaption></figure>
+
 * ลองแก้ไขที่อยู่ จาก "ต.ท้องทุ่ง อ.นาใน" เปลี่ยนเป็น "โคกหนองนาโมเดล" กดปุ่มบันทึก&#x20;
-* จะปรากฏกล่องแจ้งเตือน กด OK&#x20;
+
+<figure><img src="../.gitbook/assets/update-sheets-3.png" alt=""><figcaption></figcaption></figure>
+
+* จะปรากฏกล่องแจ้งเตือน กด `ตกลง`
+
+<figure><img src="../.gitbook/assets/update-sheets-4.PNG" alt=""><figcaption></figcaption></figure>
+
 * ฟอร์มจะกลับสู่โหมดเริ่มต้น และตารางก็จะแสดงข้อมูลที่ได้รับการแก้ไขเรียบร้อยแล้ว&#x20;
+
+<figure><img src="../.gitbook/assets/update-sheets-5.png" alt=""><figcaption></figcaption></figure>
 
 ก็เป็นอันว่าเสร็จเรียบร้อยแล้วสำหรับการแก้ไขข้อมูลในกูลเกิ้ลชีตด้วยเว็บแอปผ่าน Google Apps Script หวังเป็นอย่างยิ่งว่าผู้ศึกษาคงได้รับประโยชน์จากบทบันทึกนี้ ในการนำไปต่อยอดพัฒนาระบบใช้งานในหน่วยงานของผู้ศึกษาต่อไป
 
