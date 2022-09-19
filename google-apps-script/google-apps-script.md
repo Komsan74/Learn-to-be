@@ -188,10 +188,30 @@ function getTableRow(index) {
 
 เมื่อผู้ใช้เว็บแอปคลิกที่ปุ่ม `แก้ไข` ในขณะที่เราสร้างปุ่มจากฟังก์ชั่น `getData()` แต่ละปุ่มจะกำหนดหมายเลข `index` ของแถวเอาไว้เรียบร้อยแล้ว จาก `${i}` ฉะนั้นฟังก์ชั่น `getTableRow(index)` จึงทำงานได้ทันที
 
-* สร้างตัวแปร values\[] เป็นอาร์เรย์มารับค่าจากแถวข้อมูลในตาราง `values.push(data_row.item(i).innerHTML);` วนลูปแถวข้อมูลเพื่อรับค่าไว้ในอาร์เรย์
-* กำหนดค่า `onsubmit` ของฟอร์มใหม่ เปลี่ยนจาก `handleFormSubmit(this)` เป็น `saveEdit(this)` `forms.setAttribute("onsubmit", "saveEdit(this)")`
-* แสดง Element ที่ซ่อนไว้ในฟอร์ม `document.getElementById('divId').style.display = "block";`
-* นำค่าที่เก็บไว้ในอาร์เรย์มาใส่ในฟอร์ม `forms.elements[element_id].value = values[array_index];`
+* สร้างตัวแปร values\[] เป็นอาร์เรย์มารับค่าจากแถวข้อมูลในตาราง  วนลูปแถวข้อมูลเพื่อรับค่าไว้ในอาร์เรย์
+
+```
+values.push(data_row.item(i).innerHTML);
+```
+
+* กำหนดค่า `onsubmit` ของฟอร์มใหม่ เปลี่ยนจาก `handleFormSubmit(this)` เป็น `saveEdit(this)`&#x20;
+
+```
+forms.setAttribute("onsubmit", "saveEdit(this)")
+```
+
+* แสดง Element ที่ซ่อนไว้ในฟอร์ม&#x20;
+
+```
+document.getElementById('divId').style.display = "block";
+```
+
+* นำค่าที่เก็บไว้ในอาร์เรย์มาใส่ในฟอร์ม&#x20;
+
+```
+forms.elements[element_id].value = values[array_index];
+```
+
 * เปลี่ยนสีที่ปุ่ม `บันทึก` เป็นสีเหลืองเพื่อให้ผู้ใช้ทราบว่าขณะนี้กำลังอยู่ในโหมดแก้ไขข้อมูล
 
 ### เพิ่มฟังก์ชั่น `saveEdit(data)` เพื่อส่งคำสั่งแก้ไขข้อมูลไปให้เซิร์ฟเวอร์
@@ -211,10 +231,29 @@ function saveEdit(data) {
 
 * ติดต่อกับเซิร์ฟเวอร์ให้ดำเนินการคำสั่ง `updateData(data)`
 * เมื่อได้รับการตอบกลับให้ดำเนินคำสั่ง `goAlert()` ซึ่งเราสร้างไว้จากบทบันทึกก่อนหน้านี้ไปแล้ว
-* ปรับฟอร์มให้เป็นโหมดเริ่มต้น ซ่อน Element divId ไว้เหมือนเดิม `document.getElementById("divId").style.display = "none";`
-* เปลี่ยนสีที่ปุ่ม `บันทึก` ให้กลับมาโหมดเริ่มต้น คือเป็นสีน้ำเงินเหมือนเดิม `document.getElementById("btn-submit").setAttribute("class", "btn btn-primary");`
-* เปลี่ยนฟังก์ชั่น `onsubmit` ให้เป็นค่าเริ่มต้น `document.getElementById("form-customer").setAttribute("onsubmit", "handleFormSubmit(this)");`
-* เคลียร์ข้อมูลต่าง ๆ ที่อยู่ในฟอร์ม `document.getElementById("form-customer").reset();`
+* ปรับฟอร์มให้เป็นโหมดเริ่มต้น ซ่อน Element divId ไว้เหมือนเดิม&#x20;
+
+```
+document.getElementById("divId").style.display = "none";
+```
+
+* เปลี่ยนสีที่ปุ่ม `บันทึก` ให้กลับมาโหมดเริ่มต้น คือเป็นสีน้ำเงินเหมือนเดิม&#x20;
+
+```
+document.getElementById("btn-submit").setAttribute("class", "btn btn-primary");
+```
+
+* เปลี่ยนฟังก์ชั่น `onsubmit` ให้เป็นค่าเริ่มต้น&#x20;
+
+```
+document.getElementById("form-customer").setAttribute("onsubmit", "handleFormSubmit(this)");
+```
+
+* เคลียร์ข้อมูลต่าง ๆ ที่อยู่ในฟอร์ม&#x20;
+
+```
+document.getElementById("form-customer").reset();
+```
 
 เสร็จแล้วลองทดสอบแก้ไขข้อมูลดู
 
