@@ -279,6 +279,6 @@ document.getElementById("form-customer").reset();
 
 ก็เป็นอันว่าเสร็จเรียบร้อยแล้วสำหรับการแก้ไขข้อมูลในกูลเกิ้ลชีตด้วยเว็บแอปผ่าน Google Apps Script หวังเป็นอย่างยิ่งว่าผู้ศึกษาคงได้รับประโยชน์จากบทบันทึกนี้ ในการนำไปต่อยอดพัฒนาระบบใช้งานในหน่วยงานของผู้ศึกษาต่อไป
 
-### แสดงความคิดเห็นได้ที่ :point\_right: [gits page](https://gist.github.com/Komsan74/7afd528217e733bbfda18e8c299166ea) :pray:
+### แสดงความคิดเห็นได้ที่ :point\_right: [![github-gist-button](https://user-images.githubusercontent.com/52767363/191145099-9f4a51a2-35cc-495f-82e1-284d769a9052.png)](https://gist.github.com/Komsan74/7afd528217e733bbfda18e8c299166ea)
 
 ## แล้วถ้ามีข้อมูลที่ไม่ต้องการอยู่ในฐานข้อมูลล่ะ? :man\_shrugging:

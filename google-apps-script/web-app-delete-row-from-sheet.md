@@ -197,6 +197,4 @@ google.script.run.withSuccessHandler(goAlert).deleteData(id);
 
 ถึงตอนนี้เท่ากับว่าเราได้เว็บแอปที่พร้อมสำหรับ [เพิ่ม](https://kms74.gitbook.io/learn-to-be/google-apps-script/form-insert-data-to-google-sheet) [อ่าน](https://kms74.gitbook.io/learn-to-be/google-apps-script/read-google-sheet-to-web-app) [แก้ไข](https://kms74.gitbook.io/learn-to-be/google-apps-script/google-apps-script) และ ลบ หรือ `CRUD Operation` ข้อมูลในกูลเกิ้ลชีตเป็นที่เรียบร้อย หวังว่าคงจะมีประโยชน์สำหรับผู้ศึกษาที่จะนำไปปรับเปลี่ยน หรือพัฒนาต่อยอดให้เข้ากับกิจกรรมฐานข้อมูลในองค์กรของผู้ศึกษาได้
 
-#### แสดงความคิดเห็น:envelope:
-
-[![github-gist-button](https://user-images.githubusercontent.com/52767363/191145099-9f4a51a2-35cc-495f-82e1-284d769a9052.png)](https://gist.github.com/Komsan74/2e3741d7b67a1f7785456a229968039d)
+#### แสดงความคิดเห็นได้ที่ :point\_right: [![github-gist-button](https://user-images.githubusercontent.com/52767363/191145099-9f4a51a2-35cc-495f-82e1-284d769a9052.png)](https://gist.github.com/Komsan74/2e3741d7b67a1f7785456a229968039d)

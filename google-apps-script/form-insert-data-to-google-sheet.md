@@ -368,6 +368,6 @@ google.script.run.withSuccessHandler(goAlert).createData(data);
 
 มาถึงขั้นนี้ ถ้าหากผู้ศึกษาไม่ได้ทำขั้นตอนไหนผิด ก็น่าจะสามารถนำเว็บแอปฟอร์ม ที่สร้างในบทบันทึกนี้ ไปบันทึกข้อมูลลงในกูลเกิ้ลชีตได้แล้ว
 
-#### แสดงความคิดเห็นได้ที่ :point\_right: [gist page](https://gist.github.com/Komsan74/db4c25a1b9386635e1d81397744fdcd0) :pray:
+#### แสดงความคิดเห็นได้ที่ :point\_right: [![github-gist-button](https://user-images.githubusercontent.com/52767363/191145099-9f4a51a2-35cc-495f-82e1-284d769a9052.png)](https://gist.github.com/Komsan74/db4c25a1b9386635e1d81397744fdcd0)
 
 ### แล้วถ้าต้องการนำข้อมูลในกูลเกิ้ลชีตออกมาแสดงหน้าเว็บล่ะ ?
