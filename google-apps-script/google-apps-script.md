@@ -255,7 +255,7 @@ document.getElementById("form-customer").setAttribute("onsubmit", "handleFormSub
 document.getElementById("form-customer").reset();
 ```
 
-เสร็จแล้วลองทดสอบแก้ไขข้อมูลดู
+เสร็จแล้วลองทดสอบแก้ไขข้อมูลดู ถ้าจำวิธีนำลิงค์ทดสอบมาใช้งานไม่ได้ก็กลับไปอ่านการ [ทดสอบเว็บแอป](form-insert-data-to-google-sheet.md#undefined-2) ก่อน
 
 * กด แก้ไข ในตัวอย่าง เลือกแถวข้อมูล "หจก.ข้าวก่ำเอ็นเตอร์ไพรส์"&#x20;
 
