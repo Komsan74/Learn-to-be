@@ -6,6 +6,7 @@
   * [สร้างฟอร์มบันทึกข้อมูลจากเว็บแอปลงใน Google Sheet ด้วย Google Apps Script](google-apps-script/form-insert-data-to-google-sheet.md)
   * [อ่านข้อมูลจากกูลเกิ้ลชีตแล้วนำมาแสดงผลที่เว็บแอปด้วย Google Apps Script](google-apps-script/read-google-sheet-to-web-app.md)
   * [แก้ไขข้อมูลกูลเกิ้ลชีตด้วยเว็บแอปผ่าน Google Apps Script](google-apps-script/google-apps-script.md)
+  * [ลบข้อมูลกูลเกิ้ลชีตด้วยเว็บแอปผ่าน Google Apps Script](google-apps-script/web-app-delete-row-from-sheet.md)
 * [React](<README (1).md>)
   * [การตัดหลักทศนิยมโดยไม่ปัดเศษ](notes/react/set-decimal-places.md)
   * [Table with react-bootstrap](notes/react/table-with-react-bootstrap.md)
