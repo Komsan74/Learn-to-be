@@ -14,4 +14,3 @@
   * [Pagination with react-bootstrap](notes/react/pagination-with-react-bootstrap.md)
 * [ภาษา Go](go-lang/README.md)
   * [Getting started](go-lang/getting-started.md)
-* [Cordova](cordova/README.md)
