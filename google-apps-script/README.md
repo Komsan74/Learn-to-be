@@ -32,4 +32,4 @@ description: เกร็ดความรู้การใช้งาน Goo
 
 [![github-gist-button](https://user-images.githubusercontent.com/52767363/191145099-9f4a51a2-35cc-495f-82e1-284d769a9052.png)][comment]
 
-[comment]: https://gist.github.com/Komsan74/
+[comment]: [https://gist.github.com/Komsan74/](https://gist.github.com/Komsan74/d6c5fe3f3714c2c24d6ccc03f14693e1)
