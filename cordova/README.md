@@ -99,3 +99,7 @@ apksigner verify <custom_filename>.apk
 ติดตั้งโดย chocolatey
 
 ```choco install gradle```
+
+ทดสอบ footnote[^1]
+
+[^1]: นี่แหละ footnote
