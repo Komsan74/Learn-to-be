@@ -18,7 +18,7 @@ Cordova เป็นเฟรมเวิร์คสำหรับพัฒน
 - [Emulator Test][nox-test]
 - [Build APK Package][run-build]
 
-[installation]: http://link
+[installation]: cordova-installation.md
 [cordova]: http://link
 [android-sdk]: http://link
 [java-jdk]: http://link
