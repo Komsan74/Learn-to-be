@@ -10,7 +10,7 @@ Cordova เป็นเฟรมเวิร์คสำหรับพัฒน
 ## ขั้นตอน
 
 - [ติดตั้งสิ่งจำเป็นในการพัฒนา Cordova][installation]  
-  - [java-jdk][java-jdk]  
+  - [java-jdk8][java-jdk]  
   - [android-sdk][android-sdk]
   - [gradle][gradle]
   - [cordova][cordova]
@@ -19,13 +19,13 @@ Cordova เป็นเฟรมเวิร์คสำหรับพัฒน
 - [Build APK Package][run-build]
 
 [installation]: cordova-installation.md
-[cordova]: http://link
-[android-sdk]: http://link
-[java-jdk]: http://link
-[gradle]: http://link
-[getstart]: http://link
-[nox-test]: http://link
-[run-build]: http://link
+[cordova]: cordova-installation.md#cordova
+[android-sdk]: cordova-installation.md#android-sdk
+[java-jdk]: cordova-installation.md#java-jdk8
+[gradle]: cordova-installation.md#gradle-build-tool-เครื่องมือจัดการโครงสร้างโปรเจคอัตโนมัติสำหรับ-java-และอื่น-ๆ
+[getstart]: README.md
+[nox-test]: README.md
+[run-build]: README.md
 
 ## ความคิดเห็น
 

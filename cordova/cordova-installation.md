@@ -18,7 +18,7 @@ tags: [cordova, installation, android-sdk, java-sdk, android, java]
 
 เครื่องมือทั้งหมดที่ว่ามา ผู้บันทึกจะแนะนำการติดตั้งผ่านทาง Command Line เพราะสะดวกดี ไม่ต้องไปเปิดเว็บค้นหาสิ่งโน้นทีสิ่งนี้ที ให้เสียเวลามากมายนัก หากผู้ศึกษาไม่ถนัดการใช้งาน Command Line ก็สามารถกดลิงค์ไปศึกษาและดาวน์โหลดเครื่องมือแต่ละอย่างจากเว็บทางการได้โดยตรงเช่นกัน แต่ผู้บันทึกจะไม่ขอกล่าวถึงขั้นตอนเหล่านั้นในบทบันทึกนี้ สิ่งแรกที่ต้องมีคือต้องติดตั้ง Chocolatey เอาไว้ในเครื่องด้วย หากยังไม่เคยติดตั้งให้กลับไปอ่าน [Chocolatey Package Manager สำหรับวินโดวส์][choco-install] หากติดตั้งพร้อมแล้วก็เริ่มขั้นต่อไปกันเลย :rocket:
 
-[choco-install]: https://gist.github.com/Komsan74/67fd6644c3aacdb882947bef2b813144
+[choco-install]: ../others/chocolatey-package-manager-for-windows.md
 
 ## Node.js
 - ดาวน์โหลดและติดตั้งผ่าน [เว็บไซต์ทางการ Node.js][nodejs]
@@ -38,7 +38,6 @@ choco install nodejs -y
 
 - ติดตั้งผ่าน Command Line เปิด cmd.exe เลือกโหมด Administrator พิมพ์คำสั่ง
 
-- ### Java JDK 8
 ```sh
 choco install jdk8 -y
 ```
