@@ -26,9 +26,3 @@ Cordova เป็นเฟรมเวิร์คสำหรับพัฒน
 [getstart]: README.md
 [nox-test]: README.md
 [run-build]: README.md
-
-## ความคิดเห็น
-
-[![github-gist-button](https://user-images.githubusercontent.com/52767363/191145099-9f4a51a2-35cc-495f-82e1-284d769a9052.png)][comment]
-
-[comment]: https://gist.github.com/Komsan74/f09bf1c73ab95d39af737b9656c3c507

@@ -11,7 +11,7 @@
 * [Cordova](cordova/README.md)
   * [ติดตั้งสิ่งจำเป็นในการพัฒนาแอปด้วย Cordova](cordova/cordova-installation.md)
 * [ภาษา Go](go-lang/README.md)
-  * [Getting started](go-lang/getting-started.md)
+  * [Getting Start](go-lang/getting-started.md)
 * [React](notes/react/README.md)
   * [การตัดหลักทศนิยมโดยไม่ปัดเศษ](notes/react/set-decimal-places.md)
   * [Table with react-bootstrap](notes/react/table-with-react-bootstrap.md)
