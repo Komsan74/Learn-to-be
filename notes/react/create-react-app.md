@@ -1,6 +1,6 @@
 ---
-title: การสร้าง React Starter Project ขึ้นใหม่
-description: create-react-app เพื่อสร้างโปรเจคใหม่
+title: การสร้าง React Starter Project
+description: create-react-app เพื่อสร้างโปรเจคใหม่ ${date}
 date: 2022-10-05
 tags: [create, react, app, create-react-app, npm, npx, javascript, jsx]
 ---
