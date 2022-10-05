@@ -8,7 +8,7 @@ description: บันทึกการเรียนรู้ React Javascrip
 
 ## บทบันทึก
 
-- [การสร้าง React Starter Project](notes/react/create-react-app.md)
+- [การสร้าง React Starter Project](https://kms74.gitbook.io/learn-to-be/react/create-react-app)
 - [การตัดหลักทศนิยมโดยไม่ปัดเศษ][setdecimal]
 - [react-bootstrap : Table][table]
 - [react-bootstrap : Pagination][pagination]
