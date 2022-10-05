@@ -13,7 +13,7 @@
 * [ภาษา Go](go-lang/README.md)
   * [Getting Start](go-lang/getting-started.md)
 * [React](notes/react/README.md)
-  * [การสร้าง React Starter Project ขึ้นใหม่](notes/react/create-react-app.md)
+  * [การสร้าง React Starter Project](notes/react/create-react-app.md)
   * [การตัดหลักทศนิยมโดยไม่ปัดเศษ](notes/react/set-decimal-places.md)
   * [Table with react-bootstrap](notes/react/table-with-react-bootstrap.md)
   * [Pagination with react-bootstrap](notes/react/pagination-with-react-bootstrap.md)
