@@ -114,7 +114,7 @@ myapp/
 
 ## บทบันทึกที่เกี่ยวข้อง
 
-  - [Chocolatey Package Manager สำหรับวินโดวส์](chocolatey-package-manager-for-windows.md#vs-code)
+  - [Chocolatey Package Manager สำหรับวินโดวส์](../../others/chocolatey-package-manager-for-windows.md)
 
 ## ความคิดเห็น
 
