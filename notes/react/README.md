@@ -8,6 +8,7 @@ description: บันทึกการเรียนรู้ React Javascrip
 
 ## บทบันทึก
 
+- [การสร้าง React Starter Project](notes/react/create-react-app.md)
 - [การตัดหลักทศนิยมโดยไม่ปัดเศษ][setdecimal]
 - [react-bootstrap : Table][table]
 - [react-bootstrap : Pagination][pagination]
