@@ -1,7 +1,6 @@
 ---
 title: Chocolatey Package Manager For Windows และรายการโปรแกรมที่จำเป็นเมื่อลงวินโดวส์ใหม่
 description: Kms74 Sep 24, 2022
-data: 2022-09
 tags: [chocolatey, windows, package, manager, choco]
 ---
 
