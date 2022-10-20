@@ -8,11 +8,11 @@ website:
     gist: https://gist.github.com/Komsan74/0f71da46a330da6cbe6d8b803c49da54
 ---
 
-## บทเล่า {intro-1}
+## บทเล่า
 
 หลายคนประสบปัญหาในการใช้งาน Andriod Virtual Device (AVD) ที่สร้างจาก Android SDK Manager ทำงานช้าบ้าง เปิดไม่ขึ้นบ้าง หรือแม้แต่อาการติด ๆ ดับ ๆ ที่มาจากผู้ใช้อาจตั้งค่าไม่ถูกต้อง หรือทรัพยากรณ์ที่ใช้งานอยู่รองรับได้ไม่ดีก็ตาม แต่เวลาใช้ Android Emulator สำหรับเล่นเกมในพีซี ที่ผลิตกันออกมาหลายค่าย อาทิ MumuPlayer, LDPlayer, NoxPlayer และอีกหลายตัวที่มีผู้นิยมใช้งานอย่างแพร่หลาย กลับพบว่าเครื่องที่ใช้งาน AVD ได้ไม่ค่อยดี เมื่อใช้ Android Emulator Player เหล่านั้นกลับลื่นไหล ดังนั้นบทบันทึกนี้ จะแนะนำการเอา NoxPlayer มาใช้งานเป็น Android Emulator สำหรับทดสอบแอปที่พัฒนาขึ้นด้วย Cordova 
 
-## เตรียมการ {intro-2}
+## เตรียมการ
 
 ในบทบันทึกนี้เกี่ยวข้องกับเครื่องมือเครื่องใช้ที่จำเป็นต้องมี ดังนี้
 
@@ -26,11 +26,11 @@ website:
 
 การติดตั้ง npm, code editor, java-jdk, android-sdk, gradle และ cordova บทบันทึกนี้จะไม่พูดถึง สำหรับผู้ศึกษาที่ยังไม่ได้ทำการติดตั้งรายการใด ก็สามารถทำตามวิธีการติดตั้งจากบทบันทึก [ติดตั้งสิ่งจำเป็นในการพัฒนาแอปด้วย Cordova](https://kms74.gitbook.io/learn-to-be/cordova/cordova-installation)
 
-## ติดตั้ง NoxPlayer {install-nox}
+## ติดตั้ง NoxPlayer
 
 ผู้ศึกษาสามารถดาวน์โหลดไฟลติดตั้งได้จากเว็บไซต์ทางการ [https://th.bignox.com/](https://th.bignox.com/) โดยเลือกเวอร์ชั่น Android ที่ต้องการทดสอบได้ด้วยตัวเอง ปัจจุบันเป็น NoxPlayer เวอร์ชั่น 7.0.3.7 (ตุลาคม 2565) มีถึง `Android 9`  เมื่อดาวน์โหลดเสร็จแล้วก็ดับเบิ้ลคลิกติดตั้งเหมือนโปรแกรมที่ติดตั้งในวินโดวส์พีซีทั่วไป
 
-## ค้นหา Emulator {find-emulator}
+## ค้นหา Emulator
 
 ในโฟลเดอร์หลักของโปรเจคแอนดรอยด์ที่ทำงานอยู่ ให้เปิดหน้าต่าง cmd.exe หรือหน้าต่าง terminal ใน code editor แล้วพิมพ์คำสั่ง
 
@@ -48,7 +48,7 @@ cordova run android --list
 
 จะเห็นว่ายังไม่มีอุปกรณ์ใด ๆ เชื่อต่ออยู่เลย และคอมพิวเตอร์เครื่องนี้ผู้บันทึกไม่ได้สร้าง AVD ไว้ใช้งานแม้แต่เครื่องเดียว
 
-## เชื่อมต่อ NoxPlayer {connect-noxplayer}
+## เชื่อมต่อ NoxPlayer
 
 เปิดโปรแกรม NoxPlayer ให้รันขึ้นมาก่อน
 
@@ -83,7 +83,7 @@ adb connect 127.0.0.1:[port]
 
 ![use-nox-emu-05](https://user-images.githubusercontent.com/52767363/196851781-99ff38d8-e086-43fe-b6ab-b22ab14b5d66.png)
 
-ทำการ [ค้นหา Emulator](#find-emulator) อีกที ก็จะได้ผลลัพท์
+ทำการ [ค้นหา Emulator](#ค้นหา-emulator) อีกที ก็จะได้ผลลัพท์
 
 ![use-nox-emu-06](https://user-images.githubusercontent.com/52767363/196852554-31abf951-f64a-4f28-bd67-ca8b86ac1138.png)
 
