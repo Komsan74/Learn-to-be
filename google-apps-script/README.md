@@ -1,5 +1,5 @@
 ---
-description: เกร็ดความรู้การใช้งาน Google Appscript ร่วมกับ Google Spreadsheet
+description: Kms74 Sep 25, 2022
 ---
 
 # Google Apps Script

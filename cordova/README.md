@@ -1,7 +1,6 @@
 ---
 title: พัฒนาโมบายแอปด้วย Cordova
-description: สร้างและพัฒนาเว็บแอปให้เป็นโมบายแอปด้วย Cordova
-date: 2022-09-25
+description: Kms74 Sep 25, 2022
 tags: [cordova, android, java, javascript, html, css]
 ---
 

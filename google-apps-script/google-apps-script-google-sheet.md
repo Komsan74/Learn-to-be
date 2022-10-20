@@ -1,7 +1,5 @@
 ---
-description: >-
-  แนะนำการเริ่มต้นพัฒนาเว็บแอปพลิเคชั่นด้วย google apps script (GAS) และ google
-  sheet
+description: Kms74 Sep 20, 2022
 ---
 
 # การพัฒนาเว็บแอปด้วย Google Apps Script ร่วมกับ Google Sheet
