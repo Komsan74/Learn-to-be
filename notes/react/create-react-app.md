@@ -1,7 +1,6 @@
 ---
 title: การสร้าง React Starter Project
 description: Kms74 Oct 5, 2022
-tags: [create, react, app, create-react-app, npm, npx, javascript, jsx]
 ---
 
 ## บทเล่า

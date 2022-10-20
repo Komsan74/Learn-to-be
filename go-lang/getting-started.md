@@ -1,7 +1,6 @@
 ---
 title: เริ่มพัฒนาโปรแกรมด้วยภาษา Go
 description: Kms74 Sep 25, 2022
-tags: [go, golang, tools]
 ---
 
 ### เครื่องมือที่จำเป็น

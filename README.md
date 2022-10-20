@@ -1,7 +1,6 @@
 ---
 title: Welcome
 description: Kms74 Sep, 2022
-tags: [gitbook, note, บทบันทึก]
 ---
 
 ## เรื่องราว
