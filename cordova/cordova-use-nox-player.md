@@ -3,7 +3,7 @@ title: การใช้ NoxPlayer เป็น Emulator สำหรับท�
 description: Kms74 Oct 20, 2022
 tags: [cordova, nox, player, emulator, android]
 website:
-    gitbook: https://kms74.gitbook.io/learn-to-be/cordova/cordova-use-nox-player.md
+    gitbook: https://kms74.gitbook.io/learn-to-be/cordova/cordova-use-nox-player
     github: https://github.com/Komsan74/Learn-to-be/blob/main/cordova/cordova-use-nox-player.md
     gist: https://gist.github.com/Komsan74/0f71da46a330da6cbe6d8b803c49da54
 ---
