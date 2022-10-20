@@ -110,7 +110,7 @@ cordova run android --target=[emulator.ip.address:port]
 
 ![use-nox-emu-08](https://user-images.githubusercontent.com/52767363/196855278-e1cf8e55-b6d4-400f-9c91-cf2d207d7d8e.PNG)
 
-แอนด์ดรอยแอปที่สร้างจาก Cordova จะถูกติตตั้งใน NoxPlayer ให้สามารถเรียกใช้ภายหลังได้แม้จะหยุดเชื่อมต่อ หรือปิด code editor ไปแล้วก็ตาม
+แอนดรอยด์แอปที่สร้างจาก Cordova จะถูกติตตั้งใน NoxPlayer ให้สามารถเรียกใช้ภายหลังได้แม้จะหยุดเชื่อมต่อ หรือปิด code editor ไปแล้วก็ตาม
 
 ![use-nox-emu-09](https://user-images.githubusercontent.com/52767363/196856233-5b9714a4-d3f0-4da7-be31-0b6f5313c8fd.png)
 
