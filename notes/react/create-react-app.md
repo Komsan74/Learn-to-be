@@ -1,6 +1,6 @@
 ---
 title: การสร้าง React Starter Project
-description: create-react-app เพื่อสร้างโปรเจคใหม่ ${date}
+description: create-react-app สร้างโปรเจคใหม่
 date: 2022-10-05
 tags: [create, react, app, create-react-app, npm, npx, javascript, jsx]
 ---
@@ -29,7 +29,7 @@ node -v
 npx create-react-app myapp
 ```
 
-โดยแทนที่ `myapp` ด้วยชื่อแอปโปรเจคที่เราต้องการสร้าง รอสักครู่ [Node Package Manager][node] จะทำการติดตั้ง [React Starter Templet][react] ลงในโฟลเดอร์ `/myapp` หรือโฟลเดอร์ที่เป็นชื่อแอปโปรเจคที่เรากำหนดไว้ในคำสั่งข้างต้นนั่นเอง
+โดยแทนที่ `myapp` ด้วยชื่อแอปโปรเจคที่เราต้องการสร้าง รอสักครู่ [Node Package Manager][node] จะทำการติดตั้ง [React Starter Template][react] ลงในโฟลเดอร์ `/myapp` หรือโฟลเดอร์ที่เป็นชื่อแอปโปรเจคที่เรากำหนดไว้ในคำสั่งข้างต้นนั่นเอง
 
 ![creat-react-app-0](https://user-images.githubusercontent.com/52767363/193970691-a911d5b9-7b95-40a9-be13-8d222bda9d5e.png)
 
