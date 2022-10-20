@@ -8,16 +8,5 @@ Cordova เป็นเฟรมเวิร์คสำหรับพัฒน
 
 ## บทบันทึก
 
-- ## [ติดตั้งสิ่งจำเป็นในการพัฒนา Cordova][installation]  
-  - [java-jdk8][java-jdk]  
-  - [android-sdk][android-sdk]
-  - [gradle][gradle]
-  - [cordova][cordova]
-- ## [การใช้ NoxPlayer เป็น Emulator][nox-test]
-
-[installation]: cordova-installation.md
-[cordova]: cordova-installation.md#cordova
-[android-sdk]: cordova-installation.md#android-sdk
-[java-jdk]: cordova-installation.md#java-jdk8
-[gradle]: cordova-installation.md#gradle-build-tool-เครื่องมือจัดการโครงสร้างโปรเจคอัตโนมัติสำหรับ-java-และอื่น-ๆ
-[nox-test]: cordova-use-nox-player.md
+- ## [ติดตั้งสิ่งจำเป็นในการพัฒนา Cordova](cordova-installation.md)
+- ## [การใช้ NoxPlayer เป็น Emulator](cordova-use-nox-player.md)
