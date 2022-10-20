@@ -1,6 +1,6 @@
 ---
 title: การใช้ NoxPlayer เป็น Emulator สำหรับทดสอบแอนดรอยด์แอป
-description: Create/Edit 2022-10-20, Author @kms74
+description: Create | 2022-10-20 by @kms74
 date: 2022-10-22
 tags: [cordova, nox, player, emulator, android]
 website:
