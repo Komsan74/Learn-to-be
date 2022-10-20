@@ -8,10 +8,10 @@ description: บันทึกการเรียนรู้ React Javascrip
 
 ## บทบันทึก
 
-- [การสร้าง React Starter Project](https://kms74.gitbook.io/learn-to-be/react/create-react-app)
-- [การตัดหลักทศนิยมโดยไม่ปัดเศษ][setdecimal]
-- [react-bootstrap : Table][table]
-- [react-bootstrap : Pagination][pagination]
+* [การสร้าง React Starter Project](https://kms74.gitbook.io/learn-to-be/react/create-react-app)
+* [การตัดหลักทศนิยมโดยไม่ปัดเศษ][setdecimal]
+* [react-bootstrap : Table][table]
+* [react-bootstrap : Pagination][pagination]
 
 
 [pagination]: https://kms74.gitbook.io/learn-to-be/readme-1/pagination-with-react-bootstrap

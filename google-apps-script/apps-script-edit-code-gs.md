@@ -1,6 +1,6 @@
 ---
 title: ปรับปรุงฟังก์ชั่น Google Apps Script ให้ยืดหยุ่นต่อการใช้งาน
-description: ปรับปรุงฟังก์ชั่น CRUD ให้รองรับการเรียกใช้งานได้หลายสเปรดชีต
+description: Kms74 Oct, 2022
 date: 2022-09
 tags: [GAS, Google Apps Script, apps script, google-sheet, google sheet, sheet]
 ---

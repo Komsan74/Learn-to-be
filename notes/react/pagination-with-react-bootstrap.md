@@ -1,8 +1,5 @@
 ---
-description: >-
-  บทฝึกหัดนี้เป็นแนวทางในการใช้งาน Pagination ใน react-bootstrap เฟรมเวิร์ค
-  ที่สามารถนำไปประยุกต์ใช้งานได้ตามวัตถุประสงค์ สามารถศึกษาเพิ่มเติมได้จาก
-  react-bootstrap-pagination
+description: Kms74 Sep, 2022
 ---
 
 # Pagination with react-bootstrap

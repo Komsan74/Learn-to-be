@@ -8,18 +8,18 @@ description: Kms74 Sep 25, 2022
 
 ## เริ่มต้นสร้างเว็บแอปด้วย Google Apps Script
 
-- [พัฒนาเว็บแอปด้วย Google Apps Script ร่วมกับ Google Sheet][start]
+* [พัฒนาเว็บแอปด้วย Google Apps Script ร่วมกับ Google Sheet][start]
 
 ## Google Apps Script CRUD Operation whit Google SpreadSheet
 
-- [CREATE : สร้างฟอร์มบันทึกข้อมูลจากเว็บแอปลงใน Google Sheet][create]
-- [READ   : อ่านข้อมูลจากกูลเกิ้ลชีตแล้วนำมาแสดงผลที่เว็บแอป][read]
-- [UPDATE : แก้ไขข้อมูลกูลเกิ้ลชีตด้วยเว็บแอป][update]
-- [DELETE : ลบข้อมูลกูลเกิ้ลชีตด้วยเว็บแอป][delete]
+* [CREATE : สร้างฟอร์มบันทึกข้อมูลจากเว็บแอปลงใน Google Sheet][create]
+* [READ   : อ่านข้อมูลจากกูลเกิ้ลชีตแล้วนำมาแสดงผลที่เว็บแอป][read]
+* [UPDATE : แก้ไขข้อมูลกูลเกิ้ลชีตด้วยเว็บแอป][update]
+* [DELETE : ลบข้อมูลกูลเกิ้ลชีตด้วยเว็บแอป][delete]
 
 ## เผยแพร่เว็บแอปให้กับผู้ใช้
 
-- [นำเว็บแอปที่สร้างจาก Google Apps Script เสร็จแล้วไปใช้งาน][web_export]
+* [นำเว็บแอปที่สร้างจาก Google Apps Script เสร็จแล้วไปใช้งาน][web_export]
 
 [start]: https://kms74.gitbook.io/learn-to-be/google-apps-script/google-apps-script-google-sheet
 [create]: https://kms74.gitbook.io/learn-to-be/google-apps-script/form-insert-data-to-google-sheet

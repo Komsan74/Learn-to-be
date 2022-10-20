@@ -1,7 +1,6 @@
 ---
 title: บันทึกนอกเรื่อง
-description: เก็บเล็กผสมน้อยหลักความรู้และการแก้ปัญหาเกี่ยวกับคอมพิวเตอร์
-date: 2022-09
+description: Kms74 Sep, 2022
 tags: [computer, windows, ความรู้ทั่วไป]
 ---
 
@@ -9,4 +8,4 @@ tags: [computer, windows, ความรู้ทั่วไป]
 
 ## บทบันทึก
 
-- [Chocolatey Package Manager สำหรับวินโดวส์](chocolatey-package-manager-for-windows.md)
+* [Chocolatey Package Manager สำหรับวินโดวส์](chocolatey-package-manager-for-windows.md)

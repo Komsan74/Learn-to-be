@@ -1,5 +1,6 @@
 ---
-description: บทฝึกหัดนี้เป็นการสร้างตารางข้อมูล โดยใช้ react-bootstrap เฟรมเวิร์ค
+title: บทฝึกหัดนี้เป็นการสร้างตารางข้อมูล โดยใช้ react-bootstrap เฟรมเวิร์ค
+description: Kms74 Sep, 2022
 ---
 
 # Table with react-bootstrap

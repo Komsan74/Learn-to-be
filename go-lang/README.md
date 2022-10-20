@@ -1,8 +1,6 @@
 ---
 title: ภาษา Go
-description: เมื่อผู้บันทึกอยากศึกษาภาษา Go ดูบ้าง ได้ยินมาว่า ง่าย เร็ว และเบา
-  จริงหรือไม่มาเรียนรู้ไปด้วยกัน
-date: 2022-09
+description: Kms74 Sep, 2022
 tags: [go, go-lang]
 ---
 
@@ -10,4 +8,4 @@ tags: [go, go-lang]
 
 ## บทบันทึก
 
-- [Getting Start](getting-started.md)
+* [Getting Start](getting-started.md)

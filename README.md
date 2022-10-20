@@ -1,8 +1,6 @@
 ---
 title: Welcome
-description: ยินดีต้อนรับสู่ความไม่เป็นชิ้นเป็นอัน สำหรับสิ่งที่จะนำมาบันทึกไว้ใน GitBook 
-  เล่มนี้ ผู้เข้ามาอ่านอาจได้รับประโยชน์มากน้อยแตกต่างกัน
-date: 2022-09
+description: Kms74 Sep, 2022
 tags: [gitbook, note, บทบันทึก]
 ---
 
@@ -12,11 +10,11 @@ tags: [gitbook, note, บทบันทึก]
 
 ## หัวข้อบทบันทึก
 
-- [Gogle Apps Script][apps-script]
-- [Cordova][cordova]
-- [ภาษา Go][go]
-- [React][react]
-- [บันทึกนอกเรื่อง][others]
+* [Gogle Apps Script][apps-script]
+* [Cordova][cordova]
+* [ภาษา Go][go]
+* [React][react]
+* [บันทึกนอกเรื่อง][others]
 
 [apps-script]: google-apps-script/README.md
 [cordova]: cordova/README.md

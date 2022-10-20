@@ -8,5 +8,5 @@ Cordova เป็นเฟรมเวิร์คสำหรับพัฒน
 
 ## บทบันทึก
 
-- ## [ติดตั้งสิ่งจำเป็นในการพัฒนา Cordova](cordova-installation.md)
-- ## [การใช้ NoxPlayer เป็น Emulator](cordova-use-nox-player.md)
+* [ติดตั้งสิ่งจำเป็นในการพัฒนา Cordova](cordova-installation.md)
+* [การใช้ NoxPlayer เป็น Emulator](cordova-use-nox-player.md)
