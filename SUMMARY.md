@@ -10,6 +10,7 @@
   * [นำเว็บแอปที่สร้างจาก Google Apps Script เสร็จแล้วไปใช้งาน](google-apps-script/deploy-web-app.md)
 * [Cordova](cordova/README.md)
   * [ติดตั้งสิ่งจำเป็นในการพัฒนาแอปด้วย Cordova](cordova/cordova-installation.md)
+  * [การใช้ NoxPlayer เป็น Emulator](cordova/cordova-use-nox-player.md)
 * [ภาษา Go](go-lang/README.md)
   * [Getting Start](go-lang/getting-started.md)
 * [React](notes/react/README.md)
