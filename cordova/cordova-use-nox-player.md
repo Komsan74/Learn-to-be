@@ -104,7 +104,9 @@ cordova run android --target=[emulator.ip.address:port]
 > :bulb: **Tip:** 
 > ถ้ามี Platform Android เพียงแค่ Platform เดียวใน Cordova Project 
 > สามารถตัดคำว่า `android` ออกจากบรรทัดคำสั่งได้ 
-> `cordova run --target=127.0.0.1:62028`
+> ```sh
+>   cordova run --target=127.0.0.1:62028
+> ```
 
 มาแล้ว
 
