@@ -1,3 +1,9 @@
+<style>
+    .font-25 {
+        font-size: 2rem;
+        color: red;
+    }    
+</style>
 ---
 title: ปรับปรุงฟังก์ชั่น Google Apps Script ให้ยืดหยุ่นต่อการใช้งาน
 description: Kms74 Oct, 2022
@@ -51,7 +57,7 @@ date: 2022-09
 * UPDATE
 * DELETE
 
-## HTML
+## HTML {#html-1 .font-12}
 
 ## Javascript
 
