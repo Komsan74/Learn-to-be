@@ -45,13 +45,11 @@ date: 2022-09
 ## Google Apps Script
 
 ทำการแก้ไขสคริปต์ใน `code.gs` ที่เคยทำไว้ ให้สามารถเรียกใช้งานได้หลายสเปรดชีต
-    
-    - CREATE
-    - READ
-    - UPDATE
-    - [DELETE](#head-intro)
 
-[DELETE](#head-intro)
+* CREATE
+* READ
+* UPDATE
+* DELETE
 
 ## HTML
 
