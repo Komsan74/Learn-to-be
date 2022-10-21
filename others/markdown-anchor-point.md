@@ -3,7 +3,7 @@ title: แก้ปัญหา Heading IDs ภาษาไทยใน GitBook
 description: Kms74 Oct 21, 2022
 website:
     gitbook: #
-    github: #
+    github: https://github.com/Komsan74/Learn-to-be/blob/main/others/markdown-anchor-point.md
     gist: https://gist.github.com/Komsan74/9bb18dc4803bd492e88f395371ac275c
 ---
 
