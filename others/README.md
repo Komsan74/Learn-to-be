@@ -8,3 +8,4 @@ description: Kms74 Sep, 2022
 ## บทบันทึก
 
 * [Chocolatey Package Manager สำหรับวินโดวส์](chocolatey-package-manager-for-windows.md)
+* [แก้ปัญหา Heading IDs ภาษาไทยใน GitBook](markdown-anchor-point.md)
