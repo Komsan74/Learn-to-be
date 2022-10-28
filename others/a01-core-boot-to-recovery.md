@@ -1,6 +1,10 @@
 ---
 title: SAMSUNG Galaxy A01 Core SM-A013G U4 boot to recovery mode
 description: Kms74 Oct 29, 2022
+website:
+    gist: https://gist.github.com/Komsan74/b3fdc36656b3d0acd1d7d4a4e7b364da
+    github: https://github.com/Komsan74/Learn-to-be/blob/main/others/a01-core-boot-to-recovery.md
+    gitbook:
 ---
 
 ## บทเล่า <a name="info"></a>
@@ -29,4 +33,4 @@ description: Kms74 Oct 29, 2022
 
 [![github-gist-button](https://user-images.githubusercontent.com/52767363/191145099-9f4a51a2-35cc-495f-82e1-284d769a9052.png)][comment]
 
-[comment]: 
+[comment]: https://gist.github.com/Komsan74/b3fdc36656b3d0acd1d7d4a4e7b364da
