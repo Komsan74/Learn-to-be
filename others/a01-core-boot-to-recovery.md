@@ -4,7 +4,7 @@ description: Kms74 Oct 29, 2022
 website:
     gist: https://gist.github.com/Komsan74/b3fdc36656b3d0acd1d7d4a4e7b364da
     github: https://github.com/Komsan74/Learn-to-be/blob/main/others/a01-core-boot-to-recovery.md
-    gitbook:
+    gitbook: https://kms74.gitbook.io/learn-to-be/others/a01-core-boot-to-recovery
 ---
 
 ## บทเล่า <a name="info"></a>
