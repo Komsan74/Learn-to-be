@@ -11,8 +11,8 @@ description: Kms74 Sep, 2022
 
 * [Gogle Apps Script][apps-script]
 * [Cordova][cordova]
-* [ภาษา Go][go]
-* [React][react]
+* [Go Language][go]
+* [React & Javascript][react]
 * [บันทึกนอกเรื่อง][others]
 
 [apps-script]: google-apps-script/README.md
