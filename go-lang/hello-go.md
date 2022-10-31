@@ -100,4 +100,4 @@ Hello, Learn to be with Go Language!
 
 [![github-gist-button](https://user-images.githubusercontent.com/52767363/191145099-9f4a51a2-35cc-495f-82e1-284d769a9052.png)][comment]
 
-[comment]: 
+[comment]: https://gist.github.com/Komsan74/56628184f747b7e30ff6bc05d5c6f056
