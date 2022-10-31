@@ -3,7 +3,7 @@ title: Hello, Go Language
 description: Kms74 Nov 1, 2022
 website:
     gist: https://gist.github.com/Komsan74/56628184f747b7e30ff6bc05d5c6f056
-    github: 
+    github: https://github.com/Komsan74/Learn-to-be/blob/main/go-lang/hello-go.md
     gitbook: https://kms74.gitbook.io/go-lang/hello-go
 ---
 
