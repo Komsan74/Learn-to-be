@@ -62,7 +62,7 @@ export default function Home() {
 
 ```js
 // appNav.js
-f
+
 ```
 
 ## ผลลัพท์<a name="result"></a>
