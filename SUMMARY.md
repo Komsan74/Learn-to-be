@@ -8,16 +8,20 @@
   * [แก้ไขข้อมูลกูลเกิ้ลชีตด้วยเว็บแอปผ่าน Google Apps Script](google-apps-script/google-apps-script.md)
   * [ลบข้อมูลกูลเกิ้ลชีตด้วยเว็บแอปผ่าน Google Apps Script](google-apps-script/web-app-delete-row-from-sheet.md)
   * [นำเว็บแอปที่สร้างจาก Google Apps Script เสร็จแล้วไปใช้งาน](google-apps-script/deploy-web-app.md)
+
 * [Cordova](cordova/README.md)
   * [ติดตั้งสิ่งจำเป็นในการพัฒนาแอปด้วย Cordova](cordova/cordova-installation.md)
   * [การใช้ NoxPlayer เป็น Emulator](cordova/cordova-use-nox-player.md)
 * [ภาษา Go](go-lang/README.md)
   * [Getting Start](go-lang/getting-started.md)
+  * [เริ่มต้นเขียนโปรแกรม Hello Go](./go-lang/hello-go.md)
+
 * [React](notes/react/README.md)
   * [การสร้าง React Starter Project](notes/react/create-react-app.md)
   * [การตัดหลักทศนิยมโดยไม่ปัดเศษ](notes/react/set-decimal-places.md)
   * [Table with react-bootstrap](notes/react/table-with-react-bootstrap.md)
   * [Pagination with react-bootstrap](notes/react/pagination-with-react-bootstrap.md)
+
 * [บันทึกนอกเรื่อง](others/README.md)
   * [Chocolatey Package Manager สำหรับวินโดวส์](others/chocolatey-package-manager-for-windows.md)
   * [แก้ปัญหา Heading IDs ภาษาไทยใน GitBook](./others/markdown-anchor-point.md)

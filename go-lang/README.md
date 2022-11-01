@@ -8,3 +8,4 @@ description: Kms74 Sep, 2022
 ## บทบันทึก
 
 * [Getting Start](getting-started.md)
+* [เริ่มต้นเขียนโปรแกรม Hello Go](hello-go.md)
