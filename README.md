@@ -5,18 +5,13 @@ description: Kms74 Sep, 2022
 
 ## เรื่องราว
 
-สำหรับเรื่องราวต่าง ๆ ที่จะนำมาบันทึกเล่าใน [GitBook](https://www.gitbook.com/) นี้ ผู้บันทึกจะค่อย ๆ มาอัพเดทหัวข้อให้ทราบในภายหลัง สำหรับช่วงเริ่มต้นนี้ มีหัวข้อเรื่องได้อ่านเพียงเท่านี้ก่อน&#x20;
+ประสบการณ์ที่ได้รับจากการเรียนรู้ ไม่ว่าจะเป็นจากสถานที่ทำงาน สถานศึกษา หรือแม้แต่ประสบการณ์ชีวิต หากไม่เก็บเป็นบทบันทึกไว้บ้าง ไม่ช้านานเราก็อาจหลงลืมไปได้ง่าย ๆ จึงได้เกิดเป็น [GitBook](https://www.gitbook.com/) นี้ขึ้นมา ก็เพื่อที่จะเก็บบทบันทึกต่าง ๆ เท่าที่ผู้บันทึกพอจะรวบรวมไว้ได้ ก็หวังว่าในบางเวลา อาจจะช่วยให้ผู้ที่ต้องการศึกษาในเรื่องราวที่ได้บันทึกได้นำประโยชน์จากบทบันทึกเหล่านี้ไปต่อยอดให้เกิดสิ่งใหม่ ๆ เพิ่มขึ้นมาในอนาคต &#x20;
 
 ## บทบันทึก
 
-* [Gogle Apps Script][apps-script]
-* [Cordova][cordova]
-* [Go Language][go]
-* [React & Javascript][react]
-* [บันทึกนอกเรื่อง][others]
-
-[apps-script]: google-apps-script/README.md
-[cordova]: cordova/README.md
-[react]: notes/react/README.md
-[go]: go-lang/README.md
-[others]: others/README.md
+* [Gogle Apps Script](./google-apps-script/README.md)
+* [Google Sheet](./google-sheet/README.md)
+* [Cordova](./cordova/README.md)
+* [Go Language](./go-lang/README.md)
+* [React & Javascript](./notes/react/README.md)
+* [บันทึกนอกเรื่อง](./others/README.md)

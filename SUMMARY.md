@@ -9,6 +9,9 @@
   * [ลบข้อมูลกูลเกิ้ลชีตด้วยเว็บแอปผ่าน Google Apps Script](google-apps-script/web-app-delete-row-from-sheet.md)
   * [นำเว็บแอปที่สร้างจาก Google Apps Script เสร็จแล้วไปใช้งาน](google-apps-script/deploy-web-app.md)
 
+* [Google Sheet](./google-sheet/README.md)
+  * [วิธีจัดเรียงข้อมูลในกูลเกิ้ลชีต](./google-sheet/google-sheet-sort-data.md)
+
 * [Cordova](cordova/README.md)
   * [ติดตั้งสิ่งจำเป็นในการพัฒนาแอปด้วย Cordova](cordova/cordova-installation.md)
   * [การใช้ NoxPlayer เป็น Emulator](cordova/cordova-use-nox-player.md)
