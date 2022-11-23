@@ -3,8 +3,8 @@ title: วิธีจัดเรียงข้อมูลในกูลเ�
 description: KMS74 Nov 22, 2022
 website:
     gist: https://gist.github.com/Komsan74/6656d9ac38a3f08af40237a01ab74dab
-    github: 
-    gitbook:
+    github: https://github.com/Komsan74/Learn-to-be/blob/main/google-sheet/google-sheet-sort-data.md
+    gitbook: https://kms74.gitbook.io/learn-to-be/google-sheet/google-sheet-sort-data
 ---
 
 ## บทเล่า<a name="intro"></a>
