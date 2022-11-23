@@ -11,6 +11,7 @@
 
 * [Google Sheet](./google-sheet/README.md)
   * [วิธีจัดเรียงข้อมูลในกูลเกิ้ลชีต](./google-sheet/google-sheet-sort-data.md)
+  * [เปิด Google Sheet ให้เคอร์เซอร์เลื่อนไปอยู่แถวล่างสุด](./google-sheet/sheet-open-to-last-row.md)
 
 * [Cordova](cordova/README.md)
   * [ติดตั้งสิ่งจำเป็นในการพัฒนาแอปด้วย Cordova](cordova/cordova-installation.md)
