@@ -28,6 +28,7 @@
 
 * [บันทึกนอกเรื่อง](others/README.md)
   * [แนะนำ Chocolatey Package Manager สำหรับวินโดวส์](others/chocolatey-package-manager-for-windows.md)
+  * [วิธีอัพเดทโปรแกรมที่ติดตั้งด้วย Chocolatey](./others/chocolatey-update.md)
   * [แก้ปัญหา Heading IDs ภาษาไทยใน GitBook](./others/markdown-anchor-point.md)
   * [SAMSUNG Galaxy A01 Core Boot to recovery mode](./others/a01-core-boot-to-recovery.md)
 
