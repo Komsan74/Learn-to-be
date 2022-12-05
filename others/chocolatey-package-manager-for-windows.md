@@ -1,6 +1,10 @@
 ---
 title: Chocolatey Package Manager For Windows และรายการโปรแกรมที่จำเป็นเมื่อลงวินโดวส์ใหม่
-description: Kms74 Sep 24, 2022
+description: Kms74 Sep 24, 2022 | แนะนำ Chocolatey Package Manager For Windows
+website:
+  gist: 
+  github: https://github.com/Komsan74/Learn-to-be/blob/main/others/chocolatey-package-manager-for-windows.md
+  gitbook: https://kms74.gitbook.io/learn-to-be/others/chocolatey-package-manager-for-windows
 ---
 
 สำหรับบทบันทึกนี้จะแนะนำตัวจัดการแพ็กเกจสำหรับวินโดวส์ หรือตัวช่วยลงโปรแกรมผ่านบรรทัดคำสั่ง (Command Line) เพื่อช่วยลดเวลาในการค้นหาไฟล์ติดตั้งโปรแกรมต่าง ๆ ไม่ต้องเปิดเบราเซอร์เข้าเว็บโน้นสลับกับเว็บนี้ กว่าจะได้ไฟล์ติดตั้งสักตัวมาใช้งาน **Chocolatey** ถือเป็นตัวเลือกที่ดีที่จะนำมาแนะนำ
